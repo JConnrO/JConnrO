@@ -24,7 +24,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jconnro&show_icons=true&theme=tokyonight)
-
-![Connors's GitHub stats](https://github-readme-stats.vercel.app/api?username=jconnro&show_icons=true&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jconnro&show_icons=true&theme=tokyonight)
 
