@@ -2,9 +2,8 @@
 
 🔭 I’m pursuing full-time opportunities as a Full Stack Javascript developer. <br />
 🦾 BS in Computer Science + Full Stack JavaScript Development Cert(Rutgers-NB). <br />
-🛠️ Professional experience as lead SDET/Java Developer(5 years).
+🛠️ Professional experience as lead SDET/Java Developer(5 years). <br />
 🎷 Listening to Intstrumental Bossa Nova on spotify. <br />
-📫 How to reach me: Linkedin. <br />
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -25,3 +24,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
 </div>
 
+<br />
+<a href="https://www.linkedin.com/in/jconnorobrien/"> 
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="linkedin" alt="linkedin" />
+</a>
+<b />
