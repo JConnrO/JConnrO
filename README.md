@@ -1,7 +1,8 @@
 ###  Hi, I'm Connor! 
 
 🔭 I’m pursuing full-time opportunities as a Full Stack Javascript developer. <br />
-🦾 BS in Computer Science + Full Stack JavaScript Development Cert from Rutgers New Brunswick br />
+🦾 BS in Computer Science + Full Stack JavaScript Development Cert(Rutgers-NB). <br />
+🛠️ Professional experience as lead SDET/Java Developer(5 years).
 🎷 Listening to Intstrumental Bossa Nova on spotify. <br />
 📫 How to reach me: Linkedin. <br />
 
