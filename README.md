@@ -1,4 +1,4 @@
-###  Hi, I'm Connor! 
+###  Hi, I'm Connor!
 
 🔭 I’m pursuing full-time opportunities as a Full Stack Javascript developer. <br />
 🦾 BS in Computer Science + Full Stack JavaScript Development Cert (Rutgers-NB). <br />
