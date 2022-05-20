@@ -4,7 +4,7 @@
 🦾 BS in Computer Science + Full Stack JavaScript Development Cert (Rutgers-NB). <br />
 🛠️ Professional experience as lead SDET/Java Developer (5 years). <br />
 🎷 Teaching myself the bass. <br />
-👾 Passionate for strategy, puzzle and co-op games.
+👾 Love to play any games; specifically strategy, puzzle and co-op games. <br />
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
