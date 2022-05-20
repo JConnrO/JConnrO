@@ -1,9 +1,10 @@
 ###  Hi, I'm Connor! 
 
 🔭 I’m pursuing full-time opportunities as a Full Stack Javascript developer. <br />
-🦾 BS in Computer Science + Full Stack JavaScript Development Cert(Rutgers-NB). <br />
-🛠️ Professional experience as lead SDET/Java Developer(5 years). <br />
-🎷 Listening to Intstrumental Bossa Nova on spotify. <br />
+🦾 BS in Computer Science + Full Stack JavaScript Development Cert (Rutgers-NB). <br />
+🛠️ Professional experience as lead SDET/Java Developer (5 years). <br />
+🎷 Teaching myself the bass. <br />
+👾 Passionate for strategy, puzzle and co-op games.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
