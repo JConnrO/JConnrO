@@ -5,13 +5,6 @@
 🎷 Listening to Intstrumental Bossa Nova on spotify. <br />
 📫 How to reach me: Linkedin. <br />
 
-
-### Checkout my Github Stats! 
-
-![Connors's GitHub stats](https://github-readme-stats.vercel.app/api?username=jconnro&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jconnro&show_icons=true&theme=tokyonight)
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -30,6 +23,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 
 </div>
+
+### Stats
+
+![Connors's GitHub stats](https://github-readme-stats.vercel.app/api?username=jconnro&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jconnro&show_icons=true&theme=tokyonight)
 
 
 ### Databases
