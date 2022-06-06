@@ -1,8 +1,8 @@
 ###  Hi, I'm Connor!
 
 🔭 I’m pursuing full-time opportunities as a Javascript developer. <br />
+🛠️ Professional experience as Java Developer (5 years). <br />
 🦾 BS in Computer Science + Full Stack JavaScript Development Cert (Rutgers-NB). <br />
-🛠️ Professional experience as lead SDET/Java Developer (5 years). <br />
 🎷 Teaching myself TypeScript, AWS and the bass guitar. <br />
 👾 Love to play any games; specifically strategy, puzzle and co-op games. <br />
 
