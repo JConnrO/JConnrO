@@ -1,5 +1,7 @@
 ###  Hi, I'm Connor!
-
+<a href="https://www.linkedin.com/in/jconnorobrien/"> 
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="linkedin" alt="linkedin" />
+</a>
 🔭 I’m pursuing full-time opportunities as a Javascript developer. <br />
 🛠️ Professional experience as Java Developer (5 years). <br />
 🦾 BS in Computer Science + Full Stack JavaScript Development Cert (Rutgers-NB). <br />
@@ -26,7 +28,5 @@
 </div>
 
 <br />
-<a href="https://www.linkedin.com/in/jconnorobrien/"> 
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="linkedin" alt="linkedin" />
-</a>
+
 <b />
