@@ -7,14 +7,11 @@
 🎷 Teaching myself TypeScript, AWS and the bass guitar. <br />
 👾 Love to play any games; specifically strategy, puzzle and co-op games. <br />
 
-
 <br />
 <a href="https://www.linkedin.com/in/jconnorobrien/"> 
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="linkedin" alt="linkedin" />
 </a>
 <br/> 
-
-
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
