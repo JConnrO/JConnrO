@@ -1,7 +1,7 @@
 ###  Hi, I'm Connor!
 
 
-🔭 I’m pursuing full-time opportunities as a Javascript developer. <br />
+🔭 Full Stack JavaScript Developer <br />
 🛠️ Professional experience as Java Developer (5 years). <br />
 🦾 BS in Computer Science + Full Stack JavaScript Development Cert (Rutgers-NB). <br />
 🎷 Teaching myself TypeScript, AWS and the bass guitar. <br />
