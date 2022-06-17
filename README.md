@@ -1,4 +1,4 @@
-###  Hi, I'm Connor!
+###  Welcome! My name is Connor!
 
 
 🔭 Full Stack JavaScript Developer <br />
