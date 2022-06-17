@@ -2,9 +2,9 @@
 
 
 🔭 Full Stack JavaScript Developer <br />
-🛠️ Professional experience as Java Developer (5 years). <br />
-🦾 BS in Computer Science + Full Stack JavaScript Development Cert (Rutgers-NB). <br />
-🎷 Teaching myself TypeScript, AWS and the bass guitar. <br />
+🛠️ 5 years prrofessional experience as software developer . <br />
+🦾 BS in Computer Science. <br />
+🎷 Currently learning bass guitar. <br />
 👾 Love to play any games; specifically strategy, puzzle and co-op games. <br />
 
 <br />
