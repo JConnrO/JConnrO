@@ -1,10 +1,10 @@
 ###  Welcome! My name is Connor!
 
 🔭 Full Stack JavaScript Developer <br />
-🛠️ 5 years prrofessional experience as software developer . <br />
+🛠️ 5 years prrofessional experience as software developer. <br />
 🦾 BS in Computer Science. <br />
 🎷 Currently learning bass guitar. <br />
-👾 Love to play any games; specifically strategy, puzzle and co-op games. <br />
+👾 Love to play any games;  strategy, sports, puzzle and co-op games. <br />
 
 <br />
 <a href="https://www.linkedin.com/in/jconnorobrien/"> 
