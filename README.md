@@ -1,6 +1,5 @@
 ###  Welcome! My name is Connor!
 
-
 🔭 Full Stack JavaScript Developer <br />
 🛠️ 5 years prrofessional experience as software developer . <br />
 🦾 BS in Computer Science. <br />
